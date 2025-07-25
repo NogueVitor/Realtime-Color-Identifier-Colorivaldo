@@ -365,8 +365,8 @@ void loop() {
 ## Características Técnicas 
 **Linguagem Principal**: Python  
 **Plataforma**: Jupyter Notebook / Google Colab  
-**Hardware**: Arduino + Sensor de Luminosidade LDR
-**Dataset**: Arquivo 'dadoscores.csv'
+**Hardware**: Arduino + Sensor de Luminosidade LDR  
+**Dataset**: Arquivo 'dadoscores.csv'  
 **Algoritmo Vencedor**: K-Nearest Neighbors  
 
 ---
