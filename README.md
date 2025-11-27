@@ -1,6 +1,6 @@
 # Colorivaldo - Sistema de Previsão de Cores em Tempo Real
 
-## 📚 Visão Geral
+## Visão Geral
 
 O **Colorivaldo** é um projeto de machine learning desenvolvido no grupo de extensão [Robótica, Automação, Inteligência Artificial e Tecnologias da Universidade Federal do Ceará (RAITec)](https://www.instagram.com/raitec.ufc/) por mim e Francisco Levi, que implementa um sistema capaz de fazer previsão de cores em tempo real utilizando um sensor LDR conectado a um Arduino. O sistema coleta valores RGB através da biblioteca pyserial e utiliza algoritmos de aprendizado de máquina para classificar cores com alta precisão.
 
